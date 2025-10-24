@@ -5,7 +5,7 @@ When plugged into a computer, it automatically types a series of keystrokes thro
 It’s lightweight, easy to use, and can be customized to navigate to any URL of your choice.
 
 <p>
-  <img src="images/img1.jpg" width="300" />
-  <img src="images/img2.jpg" width="300" />
+  <img src="images/img1.png" width="300" />
+  <img src="images/img2.png" width="300" />
 </p>
 </p>
