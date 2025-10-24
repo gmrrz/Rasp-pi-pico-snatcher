@@ -1,14 +1,11 @@
 # Raspberry Pi Pico USB Keyboard Launcher
 
-A simple Raspberry Pi Pico project that emulates a USB keyboard.  
-When plugged in, it automatically opens a predefined webpage.  
+A small Raspberry Pi Pico project written in Python that emulates a USB keyboard.  
+When plugged into a computer, it automatically types a series of keystrokes through the operating system to open a specific webpage.  
+It’s lightweight, easy to use, and can be customized to navigate to any URL of your choice.
 
-## Usage
-
-1. Flash the Pico with the `.uf2` file.
-2. The Pico will type the URL and press Enter.
-3. Customize the URL in `main.c` if needed.
-
-## License
-
-MIT License
+<p>
+  <img src="images/img1.jpg" width="300" />
+  <img src="images/img2.jpg" width="300" />
+</p>
+</p>
